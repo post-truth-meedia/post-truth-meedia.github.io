@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: PostTruth analysis on Rail Baltic
+description: This page hosts the analysis compiled on the media representation of <span>Rail Baltic</span>. The page was initiated on the <span><a href="http://hack24.ut.ee/"> Post-Truth Hackathon in Tartu</a></span>, April 2017. The contents of the page are <span>work in progress</span>!
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
